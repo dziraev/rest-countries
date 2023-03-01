@@ -1,5 +1,5 @@
 @import-normalize
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;600;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;600;800&display=swap')
 
 * {
     box-sizing: border-box;
@@ -7,7 +7,7 @@
 
 :root {
     /* Typography */
-    --family: "Nunito-Sans", sens-serif;
+    --family: "Nunito", sans-serif;
     --fs-sm: 14px;
     --fs-md: 16px;
     --fw-light: 300;
